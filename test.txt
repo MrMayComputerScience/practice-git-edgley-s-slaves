@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 david wishes justin and ed loves him as much as jonathan loves him
 =======
 =======
@@ -21,3 +22,6 @@ s
 d
 xcscdds
 vc
+=======
+david wishes justin and test loves him as much as jonathan loves him ntest
+>>>>>>> jonathan
