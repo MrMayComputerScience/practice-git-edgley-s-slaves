@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 david wishes justin loves him as much as jonathan loves him
 
+=======
+david wishes stoetzer loves him as much as jonathan loves him
+>>>>>>> 71ad0c22775b6d9f21832fe164a3f220cf50c8e5
