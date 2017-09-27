@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 david wishes justin and ed loves him as much as jonathan loves him
 =======
+=======
+>>>>>>> ec39105f97d82ddb7d3c4a0e48bc6cc2722025db
 david wishes justin and test loves him as much as jonathan loves him
 >>>>>>> 5a44e45bda05ecb032aed972a7d4d8a165df7be4
